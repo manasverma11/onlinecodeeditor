@@ -1,6 +1,6 @@
-# CodeWizard - Online Code Editor
+# Online Code Editor
 
-CodeWizard is an online code editor that provides a hacker-style interface for writing, compiling, and running code in multiple programming languages. This project is built using React.js for the frontend and Express.js as the backend API server.
+Online code editor that provides a hacker-style interface for writing, compiling, and running code in multiple programming languages. This project is built using React.js for the frontend and Express.js as the backend API server.
 
 ## Features
 
@@ -32,16 +32,16 @@ CodeWizard is an online code editor that provides a hacker-style interface for w
 - Node.js (https://nodejs.org)
 
 ### Frontend Setup
-1. Clone the repository: `git clone https://github.com/khadeerthewizard/CodeWizard.git`
-2. Navigate to the frontend directory: `cd CodeWizard/frontend`
-3. Install dependencies: `npm install`
-4. Start the frontend development server: `npm start`
+1. Clone the repository
+2. Navigate to the frontend directory
+3. Install dependencies
+4. Start the frontend development server
 5. Access the frontend application at `http://localhost:3000`
 
 ### Backend Setup
-1. Navigate to the backend directory: `cd CodeWizard/backend`
-2. Install dependencies: `npm install`
-3. Start the backend server: `npm start`
+1. Navigate to the backend directory
+2. Install dependencies
+3. Start the backend server
 4. Access the backend API at `http://localhost:5000`
 
 ## Development Workflow
@@ -51,11 +51,3 @@ CodeWizard is an online code editor that provides a hacker-style interface for w
 3. Start making changes to the code, and the browser will automatically update with hot reloading.
 4. Modify the backend API routes as needed to support additional functionalities.
 5. Test the application and ensure everything is functioning as expected.
-
-## Contributing
-
-Contributions are welcome! If you have any suggestions, improvements, or bug fixes, please feel free to open an issue or submit a pull request.
-
-## Contact
-
-For any inquiries or questions, please contact us at khadeer2204@gmail.com.
