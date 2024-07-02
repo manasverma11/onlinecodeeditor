@@ -1,0 +1,62 @@
+.App {
+  text-align: center;
+  margin-top: 0;
+  margin-bottom: 0;
+}
+
+h2{
+  font-family: 'Courier New', Courier, monospace;
+  color: lightgray;
+  font-weight: 100;
+  text-shadow: -2px 4px 8px rgba(1, 44, 15, 0.39);
+  font-weight: bolder;
+}
+
+
+#run {    
+  display: flex;
+  text-align: left;
+  margin-left: 5%;
+  margin-top: auto;
+  justify-content: flex-start;
+  align-items: center;
+  flex-wrap: nowrap;
+  padding: 10px;
+  flex-direction: row;
+}
+
+#run button {
+  height: 50px;
+  width: 80px;
+  border-radius: 10px;
+}
+
+#run .textinput {
+  margin: 10px;
+  margin-left: 30px;
+  width: 200px;
+}
+
+
+pre {
+  text-align: left;
+  background-color: rgb(49, 49, 49);
+  width: 90%;
+  margin: auto;
+  margin-bottom: 10px;
+  overflow-y: auto;
+  overflow-x: auto;
+  color: white;
+  height: 100px;
+}
+
+#editor {
+  text-align: center;
+  width: 90%;
+  margin: auto;
+  border: 2px solid rgb(75, 67, 67);
+}
+
+#switch{
+  margin-left: 50px;
+}
